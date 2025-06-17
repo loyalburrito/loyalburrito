@@ -35,4 +35,4 @@ A multi-featured Discord bot combining music playback, media downloading, AI int
 
 ## What I'm Learning Now
 
-- Writing a JIT-based x86 emulator in Python 
+- Writing a Chip-8 Emulator in Python
