@@ -23,7 +23,7 @@ Most of my projects are in Python and focus on automation, application control, 
 
 ## Featured Projects
 
-### AI Voice Assistant  
+### AI Voice Assistant  (Under Development)
 A modular desktop voice assistant that supports offline commands, application shortcuts, dictation, and plugin-based extensions.
 
 ### Discord Utility & Music Bot  
