@@ -1,6 +1,6 @@
 # Hi, I'm Joshua
 
-Aspiring Computer Science student | Self-Taught Developer | Systems and Automation Enthusiast
+Self-Taught Developer | Systems and Automation Enthusiast
 
 ---
 
@@ -23,11 +23,12 @@ Most of my projects are in Python and focus on automation, application control, 
 
 ## Featured Projects
 
-### Voice Assistant (Under Development)
+### AI Voice Assistant  
 A modular desktop voice assistant that supports offline commands, application shortcuts, dictation, and plugin-based extensions.
 
 ### Discord Utility & Music Bot  
 A multi-featured Discord bot combining music playback, media downloading, AI interaction, and utility tools.
+
 
 
 ---
