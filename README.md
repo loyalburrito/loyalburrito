@@ -6,7 +6,7 @@ Self-Taught Developer | Systems and Automation Enthusiast
 
 ## About Me
 
-I'm a pre-university student entering college, driven by curiosity and a strong interest in building tools that solve practical problems. I enjoy exploring how things work at a low level, from scripting and automation to system internals and emulation.
+I'm a university student studying at SRMIST, driven by curiosity and a strong interest in building tools that solve practical problems. I enjoy exploring how things work at a low level, from scripting and automation to system internals and emulation.
 
 Most of my projects are in Python and focus on automation, application control, and system level experimentation. I'm currently exploring emulator development.
 
