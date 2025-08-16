@@ -8,31 +8,27 @@ Self-Taught Developer | Systems and Automation Enthusiast
 
 I'm a university student studying at SRMIST, driven by curiosity and a strong interest in building tools that solve practical problems. I enjoy exploring how things work at a low level, from scripting and automation to system internals and emulation.
 
-Most of my projects are in Python and focus on automation, application control, and system level experimentation. I'm currently exploring emulator development.
-
 ---
 
 ## Tools and Technologies
 
 - Python, Bash, HTML/CSS
 - Flask, SpeechRecognition, pyttsx3
-- Git, ADB, WSL2, WSA
+- Git, ADB, WSL2, WSA, Docker
 - PowerShell, Automation frameworks
 
 ---
 
 ## Featured Projects
 
+### Homelab
+My personal homelab
+
 ### AI Voice Assistant  (Under Development)
-A modular desktop voice assistant that supports offline commands, application shortcuts, dictation, and plugin-based extensions.
-
-### Discord Utility & Music Bot  
-A multi featured Discord bot combining music playback, media downloading, AI interaction, and utility tools.
-
-
+A modular desktop voice assistant that supports offline commands, application shortcuts, dictation, and plugin-based extensions. *(to be added to my homelab)*
 
 ---
 
 ## What I'm Learning Now
-
+- k8s
 - Writing a Chip-8 Emulator in Python
