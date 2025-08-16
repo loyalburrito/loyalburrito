@@ -1,16 +1,16 @@
-# Hi, I'm Joshua
+# Hi im joshua
 
-Self-Taught Developer | Systems and Automation Enthusiast
-
----
-
-## About Me
-
-I'm a university student studying at SRMIST, driven by curiosity and a strong interest in building tools that solve practical problems. I enjoy exploring how things work at a low level, from scripting and automation to system internals and emulation.
+likes emulation | tinkers with stuff a lot
 
 ---
 
-## Tools and Technologies
+## about me
+
+im a university student studying at SRMIST driven by curiosity and a strong interest in building tools that solve practical problems i enjoy tinkering with everything i get my hands on and try to make the most of what i have got
+
+---
+
+## tools and technologies
 
 - Python, Bash, HTML/CSS
 - Flask, SpeechRecognition, pyttsx3
@@ -19,16 +19,16 @@ I'm a university student studying at SRMIST, driven by curiosity and a strong in
 
 ---
 
-## Featured Projects
+## featured projects
 
 ### Homelab
 My personal homelab
 
-### AI Voice Assistant  (Under Development)
+### AI Voice Assistant  (under development)
 A modular desktop voice assistant that supports offline commands, application shortcuts, dictation, and plugin-based extensions. *(to be added to my homelab)*
 
 ---
 
-## What I'm Learning Now
+## what im learning now
 - k8s
-- Writing a Chip-8 Emulator in Python
+- writing a chip-8 emulator in python *(trying to atleast)*
