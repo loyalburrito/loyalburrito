@@ -6,7 +6,7 @@ likes emulation | tinkers with stuff a lot
 
 ## about me
 
-im a university student studying at SRMIST driven by curiosity and a strong interest in building tools that solve practical problems i enjoy tinkering with everything i get my hands on and try to make the most of what i have got
+im a university student
 
 ---
 
