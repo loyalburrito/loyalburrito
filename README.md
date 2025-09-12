@@ -32,3 +32,5 @@ A modular desktop voice assistant that supports offline commands, application sh
 ## what im learning now
 - k8s
 - writing a chip-8 emulator in python *(trying to atleast)*
+
+![](https://hit.yhype.me/github/profile?account_id=139670903)
