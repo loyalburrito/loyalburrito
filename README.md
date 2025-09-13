@@ -1,12 +1,10 @@
-# Hi im joshua
-
 likes emulation | tinkers with stuff a lot
 
 ---
 
 ## about me
 
-im a university student
+im a uni student
 
 ---
 
