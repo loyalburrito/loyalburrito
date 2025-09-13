@@ -1,4 +1,4 @@
-#Hi, Im Loyalburrito
+# Hi, Im Loyalburrito
 
 likes emulation | tinkers with stuff a lot
 
